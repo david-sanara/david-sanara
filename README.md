@@ -13,3 +13,23 @@
 💻 I'm training to become a multiplatform developer: mobile apps, desktop applications, APIs, and databases.
 🚀 I upload personal projects made with Java, JavaScript, HTML and CSS. Soon also Python (automation, APIs, etc.).
 📌 This GitHub profile is where I share and document my journey as a developer in progress.
+
+### 🧰 Tecnologías que estoy utilizando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mongodb,linux,vscode,eclipse,intellij&theme=light" alt="Tech stack" />
+</p>
+
+---
+
+### 📌 Herramientas y entornos
+
+- **Lenguajes**: Java, JavaScript, Python, Bash, Batch  
+- **Bases de datos**: MySQL, MongoDB  
+- **IDE/Edición**: Visual Studio Code, Eclipse, IntelliJ IDEA  
+- **ORM y acceso a datos**: JDBC, JPA  
+- **Diagramas**: UML, Diagramas E/R, Draw.io, Mermaid  
+- **Sistemas**: Linux, máquinas virtuales  
+- **Otras herramientas**: MySQL Workbench, StackEdit, GitHub Pages  
+- **Otros conocimientos**: Uso inicial de APIs REST
+- **Idiomas**: Español, inglés, francés
