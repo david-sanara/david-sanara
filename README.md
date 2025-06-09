@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="David-Sanara03.png" alt="Banner" width="970" height="250">
+</p>
+
 ### 👋 ¡Hola! Soy David, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 💻 Me estoy formando como programador multiplataforma: aplicaciones móviles, de escritorio, APIs y bases de datos.
 🚀 Subo proyectos personales hechos en Java, JavaScript, HTML y CSS. Pronto también en Python (automatización, APIs y más).
