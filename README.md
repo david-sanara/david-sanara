@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="david-sanara-banner.png" alt="Banner" width="970" height="450">
+  <img src="david-sanara-banner.png" alt="Banner" width="100%">
 </p>
 
 ### 👋 ¡Hola! Soy David, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
